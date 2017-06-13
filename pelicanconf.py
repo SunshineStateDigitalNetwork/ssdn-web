@@ -36,3 +36,4 @@ DEFAULT_PAGINATION = False
 
 # SSDN Specific Configs
 DISPLAY_PAGES_ON_MENU = True
+THEME = 'gum'
