@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Matthew Miguez'
 SITENAME = 'Sunshine State Digital Network'
-SITEURL = ''
+SITEURL = 'http://sunshinestatedigitalnetwork.github.io'
 
 PATH = 'content'
 
@@ -36,4 +36,5 @@ DEFAULT_PAGINATION = False
 
 # SSDN Specific Configs
 DISPLAY_PAGES_ON_MENU = True
-THEME = 'gum'
+DISPLAY_CATEGORIES_ON_MENU = False
+THEME = 'gum-ssdn'
