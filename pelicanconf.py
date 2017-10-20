@@ -26,8 +26,10 @@ AUTHOR_FEED_RSS = None
 #          ('You can modify those links in your config file', '#'),)
 #
 # # Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
+
+TWITTER_URL = 'https://twitter.com/sunshinestatedn'
+FACEBOOK_URL = 'https://www.facebook.com/SunshineStateDN/'
+GITHUB_URL = 'https://github.com/sunshinestatedigitalnetwork'
 
 DEFAULT_PAGINATION = False
 

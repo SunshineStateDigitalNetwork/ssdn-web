@@ -1,4 +1,8 @@
 Title: Contact Us
-Slug: Get in touch
+Slug: contact_us
 
-More coming soon!
+Can't find what you're looking for?
+Contact:
+Keila Zayas-Ruiz
+Sunshine State Digital Network Coordinator
+(kzayasruiz@fsu.edu)[kzayasruiz@fsu.edu]

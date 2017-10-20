@@ -1,4 +1,4 @@
 Title: About
-Slug: About SSDN
+Slug: about
 
 The Sunshine State Digital Network (SSDN) is the Florida State DPLA hub.

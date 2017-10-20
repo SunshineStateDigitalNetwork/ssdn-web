@@ -1,0 +1,2 @@
+Title: Events
+Slug: events

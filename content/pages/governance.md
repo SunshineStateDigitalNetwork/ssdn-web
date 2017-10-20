@@ -1,4 +1,4 @@
 Title: Governance
-Slug: Get involved
+Slug: get_involved
 
 More coming soon!

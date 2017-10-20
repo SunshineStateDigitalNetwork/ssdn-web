@@ -1,4 +1,4 @@
 Title: Documentation
-Slug: Read the Docs
+Slug: documentation
 
 More coming soon!
