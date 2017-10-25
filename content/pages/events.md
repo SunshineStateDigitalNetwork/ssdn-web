@@ -17,7 +17,7 @@ All workshops will share the same agenda:
 * 10:45 am-11:30 am: Introduction to the Sunshine State Digital Network
 * 11:30 am-12:00 pm: Introduction to shareable metadata
 * 12:00 pm-01:30 pm: Lunch
-* 1:30 pm-02:45 pm: Shareable Metadata continued and Rightsstatements.org
+* 01:30 pm-02:45 pm: Shareable Metadata continued and Rightsstatements.org
 * 02:45 pm-03:00 pm: Break
 * 03:00 pm-03:50 pm: Interactive discussion about Florida Digital Collections
 * 03:50 pm-04:00 pm: Closing remarks
