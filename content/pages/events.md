@@ -5,7 +5,7 @@ We are happy to announce three upcoming workshops:
 
 * Orlando--Thursday, November 16, 2017
 * Miami--Thursday, November 16, 2017
-* Fort Meyers--Friday, November 17, 2017
+* Fort Myers--Friday, November 17, 2017
 
 **For full details, download the [flyer](../theme/SSDNFall2017WorkshopFlyer.pdf).**
 
