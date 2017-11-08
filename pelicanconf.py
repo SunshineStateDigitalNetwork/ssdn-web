@@ -34,11 +34,11 @@ GITHUB_URL = 'https://github.com/sunshinestatedigitalnetwork'
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 # SSDN Specific Configs
 LOGO = '/theme/logo.png'
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 THEME = 'gum-ssdn'
-#THEME = 'gum'
+# THEME = 'gum'
