@@ -1,15 +1,23 @@
 Title: Events
 Slug: events
 
-We are happy to announce three upcoming workshops:
+We are happy to host these upcoming workshops:
 
-* Orlando--Thursday, November 16, 2017
-* Miami--Thursday, November 16, 2017
-* Fort Myers--Friday, November 17, 2017
+_Sign up below_
 
-**For full details, download the [flyer](../theme/SSDNFall2017WorkshopFlyer.pdf).**
+* Tallahassee--Friday, December 15, 2017
+    
+    9am-4pm  
+    State Library and Archives—Tallahassee Florida  
+    R.A. Gray Building  
+    500 South Bronough Street  
+    Tallahassee, FL 32399-6643
 
-All workshops will share the same agenda:
+**Description:**
+
+This FREE one day workshop will introduce participants to the DPLA.  Participants will leave with a better understanding of what DPLA is, how to use it as a resource, and about Florida’s involvement with DPLA through the new Sunshine State Digital Network (SSDN).  Learn more about how to get involved and prepare your metadata for inclusion.  We welcome anyone in the Florida library and museum community to attend. Attendees will receive a small stipend to help offset the cost of travel.
+
+**Agenda:**
 
 * 09:00 am-09:30 am: Registration and welcome
 * 09:30 am-10:30 am: What is DPLA?
@@ -25,3 +33,13 @@ All workshops will share the same agenda:
 ### Sign-up
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSehmQmf0O7vHFUqHhROv3JIBDaau2Oh7ktMy_ir2URA-p9Xtw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+### Past Events
+
+#### November 2017
+
+* Orlando--Thursday, November 16, 2017
+* Miami--Thursday, November 16, 2017
+* Fort Myers--Friday, November 17, 2017
+
+**For full details, download the [flyer](../theme/SSDNFall2017WorkshopFlyer.pdf).**
